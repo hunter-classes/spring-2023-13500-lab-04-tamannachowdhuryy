@@ -1,5 +1,5 @@
 #pragma once
-#include string
+#include "func.h"
 std::string box(int width, int height);
 
 std::string checkerboard(int width, int height);
